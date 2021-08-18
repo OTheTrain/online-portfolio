@@ -1,3 +1,3 @@
 # online-portfolio
 Code repository for Portfolio website
-Link: https://othetrain.github.io/online-portfolio/
+Link: https://owen-orsini.github.io/online-portfolio/
